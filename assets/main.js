@@ -24,7 +24,8 @@ const es = {
     <li>Mejoré la velocidad de carga y la versión móvil: imágenes más ligeras, menos saltos de diseño y mejores resultados en Core Web Vitals.</li>
     <li>Maqueté plantillas de email HTML responsive para pedidos, envíos y marketing.</li>
     <li>Trabajé en tiendas multi-idioma y creé pequeñas herramientas JavaScript que el equipo de contenido usa para traducir y revisar páginas en bloque.</li>
-    <li>Trabajé con marketing para convertir ideas de campaña en tareas de desarrollo claras y ayudé a planificar los sprints en Jira.</li>`,
+    <li>Trabajé con marketing para convertir ideas de campaña en tareas de desarrollo claras y ayudé a planificar los sprints en Jira.</li>
+    <li>Uso herramientas de IA (GitHub Copilot, Claude, Gemini, ChatGPT) para agilizar mi trabajo diario, sobre todo para código repetitivo, primeros borradores de tests y refactorizaciones rápidas.</li>`,
   'job2.title': 'Freelance / Proyectos propios',
   'job2.dates': 'ene. 2020 – may. 2022',
   'job2.note': 'Dos años aprendiendo front-end por mi cuenta, desde mi primera página HTML hasta aplicaciones completas en Vue.',
