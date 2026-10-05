@@ -2,16 +2,15 @@ const es = {
   'nav.experience': 'Experiencia',
   'nav.skills': 'Habilidades',
   'nav.education': 'Formación',
-  'hero.status': 'Disponible para puestos en remoto · Desde Málaga',
-  'hero.role': 'Desarrolladora Front-End · E-commerce y desarrollo de temas',
-  'hero.intro': 'Hola, soy Alina. Construyo las partes de una tienda online que la gente realmente toca: páginas de producto, checkouts y la landing a la que llegas después de pinchar en una promo. Antes pasé casi diez años en operaciones y atención al cliente, así que sé lo que es ser quien responde cuando algo falla.',
+  'hero.status': 'Disponible solo para puestos en remoto',
+  'hero.role': 'Desarrolladora Front-End | JavaScript y plataformas eCommerce',
+  'hero.intro': 'Hola, soy Alina. Soy desarrolladora front-end y llevo cuatro años creando temas de tienda, landing pages y checkouts para una plataforma e-commerce. Antes trabajé casi diez años en operaciones y atención al cliente, por eso siempre pienso en la persona que usa la página, no solo en el código.',
   'hero.download': 'Descargar CV (PDF)',
   'hero.contact': 'Contactar',
   'about.title': 'Sobre mí',
   'about.body': `
-    <p>No empecé en tecnología. Durante años dirigí un equipo de atención al cliente y logística en Bucarest, y era la persona a la que todos acudían cuando el ERP fallaba. En 2020 decidí convertir eso en mi trabajo: hice el Nanodegree Front End de Udacity, desarrollé proyectos con Vue y Tailwind y en 2022 entré en Marbill como desarrolladora front-end.</p>
-    <p>Hoy soy desarrolladora senior en un equipo de cuatro personas, en una plataforma e-commerce de suscripción. Una semana normal es una nueva landing para una promo, un cambio en un tema o perseguir un layout shift en el checkout móvil. Me encanta el e-commerce porque el feedback es inmediato: cuando un checkout va más rápido o una página de campaña se entiende mejor, se nota en los números casi al momento.</p>
-    <p>Suelo hacer de traductora entre marketing e ingeniería. Cojo un briefing poco claro, hago las preguntas incómodas al principio y lo convierto en algo que se puede publicar. También me gusta crear pequeñas herramientas que ahorran tiempo al equipo, como los scripts que usa el equipo de contenido para traducir páginas en bloque.</p>`,
+    <p>No empecé en tecnología. Dirigí un equipo de atención al cliente y logística en Bucarest y era la persona a la que todos acudían cuando el ERP fallaba. En 2020 aprendí front-end por mi cuenta y en 2022 entré en Marbill, donde hoy soy desarrolladora senior en un equipo de cuatro personas.</p>
+    <p>Me gusta el e-commerce porque el feedback es inmediato: un checkout más rápido o una página de campaña más clara se nota en los números casi al momento. Suelo hacer de puente entre marketing e ingeniería y convierto briefings poco claros en páginas que se pueden publicar.</p>`,
   'stats.years': 'Años en front-end',
   'stats.themes': 'Temas de tienda publicados',
   'stats.pages': 'Landing pages publicadas',
