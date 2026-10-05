@@ -24,7 +24,7 @@ const es = {
     <li>Audité y mejoré el rendimiento front-end, optimizando de forma sistemática la adaptación a móvil, las Core Web Vitals y los cambios de layout para reducir la tasa de rebote.</li>
     <li>Maqueté plantillas de email HTML responsive para pedidos, envíos y marketing.</li>
     <li>Di soporte a tiendas multi-idioma: maquetaciones que aguantan traducciones más largas y herramientas JavaScript que el equipo de contenido usa para traducir y revisar páginas en bloque.</li>
-    <li>Actué como principal enlace técnico, convirtiendo briefings de marketing poco definidos en una arquitectura técnica concreta y gestionando los sprints en Jira.</li>
+    <li>Trabajé con marketing para convertir ideas de campaña en tareas de desarrollo claras y ayudé a planificar los sprints en Jira.</li>
     <li>Uso herramientas de IA como GitHub Copilot, Gemini, Claude y ChatGPT para agilizar mi trabajo diario de desarrollo (sobre todo para código repetitivo, borradores de tests y refactorizaciones rápidas).</li>`,
   'job2.title': 'Freelance / Proyectos propios',
   'job2.dates': 'ene. 2020 – may. 2022',
