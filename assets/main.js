@@ -10,7 +10,7 @@ const es = {
   'about.title': 'Sobre mí',
   'about.body': `
     <p>No empecé en tecnología. Dirigí un equipo de atención al cliente y logística en Bucarest y era la persona a la que todos acudían cuando el ERP fallaba. En 2020 aprendí front-end por mi cuenta y en 2022 entré en Marbill, donde hoy soy desarrolladora senior en un equipo de cuatro personas.</p>
-    <p>Me gusta el e-commerce porque el feedback es inmediato: un checkout más rápido o una página de campaña más clara se nota en los números casi al momento. Suelo hacer de puente entre marketing e ingeniería y convierto briefings poco claros en páginas que se pueden publicar.</p>`,
+    <p>Lo que más me gusta del e-commerce es lo rápido que se ve el resultado: un checkout más rápido o una página de campaña más clara se nota en los números casi al momento. Por eso disfruto trabajando codo con codo con marketing: suelo ser quien convierte sus ideas en páginas que se pueden publicar, y los números nos dicen a todos qué ha funcionado.</p>`,
   'stats.years': 'Años en front-end',
   'stats.themes': 'Temas de tienda publicados',
   'stats.pages': 'Landing pages publicadas',
