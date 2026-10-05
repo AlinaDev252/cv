@@ -49,7 +49,7 @@ const es = {
   'skills.tools': 'Herramientas',
   'skills.toolsBody': 'Git/GitHub, Figma, Webpack, Firebase, Jest, Jira, ClickUp, asistentes de IA para programar (GitHub Copilot, Claude)',
   'skills.lang': 'Idiomas',
-  'skills.langBody': 'Rumano (nativo), español (C2), inglés (C1), alemán (básico)',
+  'skills.langBody': 'Rumano (nativo), español (C2), inglés (C1)',
   'edu.master': 'Máster en Marketing y Relaciones Públicas',
   'edu.bachelor': 'Grado en Administración de Empresas (Comercio)',
   'edu.school': 'Academia de Estudios Económicos, Bucarest',
