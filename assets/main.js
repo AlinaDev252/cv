@@ -20,7 +20,7 @@ const es = {
     <li>Desarrollé y mantuve más de 10 temas e interfaces a medida para una plataforma e-commerce de suscripción en pleno crecimiento, con un alto volumen de transacciones mensuales.</li>
     <li>Convertí diseños UI/UX complejos en código semántico y eficiente con HTML5, CSS3, JavaScript (ES6+), Bootstrap 5 y plantillas Twig (arquitectura similar a Shopify Liquid).</li>
     <li>Desarrollé y publiqué más de 60 landing pages y campañas promocionales de alta conversión, en estrecha colaboración con los equipos de diseño y marketing para cumplir plazos de lanzamiento ajustados.</li>
-    <li>Maqueté páginas de producto, carrito, checkout y suscripción, con foco en la usabilidad móvil y en reducir los pasos hasta la compra.</li>
+    <li>Maqueté las páginas de producto, carrito, checkout y suscripción para que fueran más fáciles de usar en móvil y se pudiera comprar en menos pasos.</li>
     <li>Audité y mejoré el rendimiento front-end, optimizando de forma sistemática la adaptación a móvil, las Core Web Vitals y los cambios de layout para reducir la tasa de rebote.</li>
     <li>Maqueté plantillas de email HTML responsive para pedidos, envíos y marketing.</li>
     <li>Di soporte a tiendas multi-idioma: maquetaciones que aguantan traducciones más largas y herramientas JavaScript que el equipo de contenido usa para traducir y revisar páginas en bloque.</li>
