@@ -1,0 +1,16 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tailwindcss -i src/input.css -o assets/style.css --minify",
+    "dev": "tailwindcss -i src/input.css -o assets/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Alina Goiea - Front-End Developer CV",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
