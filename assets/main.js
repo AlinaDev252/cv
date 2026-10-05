@@ -4,7 +4,7 @@ const es = {
   'nav.education': 'Formación',
   'hero.status': 'Disponible solo para puestos en remoto',
   'hero.role': 'Desarrolladora Front-End | JavaScript y plataformas eCommerce',
-  'hero.intro': 'Hola, soy Alina. Soy desarrolladora front-end y llevo cuatro años creando temas de tienda, landing pages y checkouts para una plataforma e-commerce. Antes trabajé casi diez años en operaciones y atención al cliente, por eso siempre pienso en la persona que usa la página, no solo en el código.',
+  'hero.intro': 'Llevo cuatro años creando temas de tienda, landing pages y checkouts para una plataforma e-commerce. Antes trabajé casi diez años en operaciones y atención al cliente, por eso siempre pienso en la persona que usa la página, no solo en el código.',
   'hero.download': 'Descargar CV (PDF)',
   'hero.contact': 'Contactar',
   'about.title': 'Sobre mí',
