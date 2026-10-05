@@ -23,7 +23,7 @@ const es = {
     <li>Maqueté las páginas de producto, carrito, checkout y suscripción para que fueran más fáciles de usar en móvil y se pudiera comprar en menos pasos.</li>
     <li>Mejoré la velocidad de carga y la versión móvil: imágenes más ligeras, menos saltos de diseño y mejores resultados en Core Web Vitals.</li>
     <li>Maqueté plantillas de email HTML responsive para pedidos, envíos y marketing.</li>
-    <li>Trabajé en tiendas multi-idioma y creé pequeñas herramientas JavaScript que el equipo de contenido usa para traducir y revisar páginas en bloque.</li>
+    <li>Creé pequeñas herramientas JavaScript que ayudan al equipo de contenido a traducir y revisar páginas en nuestras tiendas multi-idioma.</li>
     <li>Trabajé con marketing para convertir ideas de campaña en tareas de desarrollo claras y ayudé a planificar los sprints en Jira.</li>
     <li>Uso herramientas de IA (GitHub Copilot, Claude, Gemini, ChatGPT) para agilizar mi trabajo diario, sobre todo para código repetitivo, primeros borradores de tests y refactorizaciones rápidas.</li>`,
   'job2.title': 'Freelance / Proyectos propios',
