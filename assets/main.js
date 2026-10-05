@@ -47,7 +47,7 @@ const es = {
   'skills.ux': 'UX y calidad',
   'skills.uxBody': 'Usabilidad, accesibilidad, Core Web Vitals, HTML semántico, SEO técnico',
   'skills.tools': 'Herramientas',
-  'skills.toolsBody': 'Git/GitHub, Figma, Webpack, Firebase, Jest, Jira, ClickUp, asistentes de IA para programar (GitHub Copilot, Claude)',
+  'skills.toolsBody': 'Git/GitHub, Figma, Webpack, Firebase, Jest, Jira, ClickUp, asistentes de IA para programar (GitHub Copilot, Claude, Gemini, ChatGPT)',
   'skills.lang': 'Idiomas',
   'skills.langBody': 'Rumano (nativo), español (C2), inglés (C1)',
   'edu.master': 'Máster en Marketing y Relaciones Públicas',
