@@ -9,8 +9,8 @@ const es = {
   'hero.contact': 'Contactar',
   'about.title': 'Sobre mí',
   'about.body': `
-    <p>No empecé en tecnología. Durante años dirigí un equipo de atención al cliente y logística en Bucarest, y era la persona a la que todos acudían cuando el ERP fallaba. En 2020 decidí convertir eso en mi trabajo: hice el Nanodegree Front End de Udacity, desarrollé proyectos con Vue y Tailwind y en 2022 me mudé a España para programar en producción en Marbella.</p>
-    <p>Hoy llevo el desarrollo front-end de una plataforma e-commerce de suscripción. Una semana normal es una nueva landing para una promo, un cambio en un tema o perseguir un layout shift en el checkout móvil. Me encanta el e-commerce porque el feedback es inmediato: cuando un checkout va más rápido o una página de campaña se entiende mejor, se nota en los números casi al momento.</p>
+    <p>No empecé en tecnología. Durante años dirigí un equipo de atención al cliente y logística en Bucarest, y era la persona a la que todos acudían cuando el ERP fallaba. En 2020 decidí convertir eso en mi trabajo: hice el Nanodegree Front End de Udacity, desarrollé proyectos con Vue y Tailwind y en 2022 entré en Marbill como desarrolladora front-end.</p>
+    <p>Hoy soy desarrolladora senior en un equipo de cuatro personas, en una plataforma e-commerce de suscripción. Una semana normal es una nueva landing para una promo, un cambio en un tema o perseguir un layout shift en el checkout móvil. Me encanta el e-commerce porque el feedback es inmediato: cuando un checkout va más rápido o una página de campaña se entiende mejor, se nota en los números casi al momento.</p>
     <p>Suelo hacer de traductora entre marketing e ingeniería. Cojo un briefing poco claro, hago las preguntas incómodas al principio y lo convierto en algo que se puede publicar. También me gusta crear pequeñas herramientas que ahorran tiempo al equipo, como los scripts que usa el equipo de contenido para traducir páginas en bloque.</p>`,
   'stats.years': 'Años en front-end',
   'stats.themes': 'Temas de tienda publicados',
