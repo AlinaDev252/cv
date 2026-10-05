@@ -17,7 +17,7 @@ const es = {
   'job1.title': 'Desarrolladora Front-End',
   'job1.dates': 'jun. 2022 – actualidad',
   'job1.body': `
-    <li>Desarrollé y mantuve más de 10 temas e interfaces a medida para una plataforma e-commerce de suscripción en pleno crecimiento, que procesa miles de transacciones de clientes al mes.</li>
+    <li>Desarrollé y mantuve más de 10 temas e interfaces a medida para una plataforma e-commerce de suscripción en pleno crecimiento, con un alto volumen de transacciones mensuales.</li>
     <li>Convertí diseños UI/UX complejos en código semántico y eficiente con HTML5, CSS3, JavaScript (ES6+), Bootstrap 5 y plantillas Twig (arquitectura similar a Shopify Liquid).</li>
     <li>Desarrollé y publiqué más de 60 landing pages y campañas promocionales de alta conversión, en estrecha colaboración con los equipos de diseño y marketing para cumplir plazos de lanzamiento ajustados.</li>
     <li>Maqueté páginas de producto, carrito, checkout y suscripción, con foco en la usabilidad móvil y en reducir los pasos hasta la compra.</li>
