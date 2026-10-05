@@ -17,15 +17,14 @@ const es = {
   'job1.title': 'Desarrolladora Front-End',
   'job1.dates': 'jun. 2022 – actualidad',
   'job1.body': `
-    <li>Desarrollé y mantuve más de 10 temas e interfaces a medida para una plataforma e-commerce de suscripción en pleno crecimiento, con un alto volumen de transacciones mensuales.</li>
-    <li>Convertí diseños UI/UX complejos en código semántico y eficiente con HTML5, CSS3, JavaScript (ES6+), Bootstrap 5 y plantillas Twig (arquitectura similar a Shopify Liquid).</li>
-    <li>Desarrollé y publiqué más de 60 landing pages y campañas promocionales de alta conversión, en estrecha colaboración con los equipos de diseño y marketing para cumplir plazos de lanzamiento ajustados.</li>
+    <li>Desarrollé y mantuve más de 10 temas de tienda a medida para una plataforma e-commerce de suscripción en crecimiento, con un alto volumen de pedidos mensuales.</li>
+    <li>Convertí diseños de Figma en páginas limpias y rápidas con HTML, CSS, JavaScript, Bootstrap 5 y Twig (un lenguaje de plantillas parecido a Liquid de Shopify).</li>
+    <li>Publiqué más de 60 landing pages y campañas promocionales con los equipos de diseño y marketing, a menudo con fechas de lanzamiento ajustadas.</li>
     <li>Maqueté las páginas de producto, carrito, checkout y suscripción para que fueran más fáciles de usar en móvil y se pudiera comprar en menos pasos.</li>
-    <li>Audité y mejoré el rendimiento front-end, optimizando de forma sistemática la adaptación a móvil, las Core Web Vitals y los cambios de layout para reducir la tasa de rebote.</li>
+    <li>Mejoré la velocidad de carga y la versión móvil: imágenes más ligeras, menos saltos de diseño y mejores resultados en Core Web Vitals.</li>
     <li>Maqueté plantillas de email HTML responsive para pedidos, envíos y marketing.</li>
-    <li>Di soporte a tiendas multi-idioma: maquetaciones que aguantan traducciones más largas y herramientas JavaScript que el equipo de contenido usa para traducir y revisar páginas en bloque.</li>
-    <li>Trabajé con marketing para convertir ideas de campaña en tareas de desarrollo claras y ayudé a planificar los sprints en Jira.</li>
-    <li>Uso herramientas de IA como GitHub Copilot, Gemini, Claude y ChatGPT para agilizar mi trabajo diario de desarrollo (sobre todo para código repetitivo, borradores de tests y refactorizaciones rápidas).</li>`,
+    <li>Trabajé en tiendas multi-idioma y creé pequeñas herramientas JavaScript que el equipo de contenido usa para traducir y revisar páginas en bloque.</li>
+    <li>Trabajé con marketing para convertir ideas de campaña en tareas de desarrollo claras y ayudé a planificar los sprints en Jira.</li>`,
   'job2.title': 'Freelance / Proyectos propios',
   'job2.dates': 'ene. 2020 – may. 2022',
   'job2.note': 'Dos años aprendiendo front-end por mi cuenta, desde mi primera página HTML hasta aplicaciones completas en Vue.',
