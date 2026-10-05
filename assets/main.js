@@ -67,6 +67,7 @@ function setLang(lang) {
     el.innerHTML = lang === 'es' && es[key] ? es[key] : el.dataset.en;
   });
   document.documentElement.lang = lang;
+  document.getElementById('cv-download').href = lang === 'es' ? 'assets/Alina_Goiea_CV_Desarrolladora_Frontend.pdf' : 'assets/Alina_Goiea_Frontend_Developer.pdf';
   document.querySelectorAll('[data-lang]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.lang === lang)));
   try { localStorage.setItem('lang', lang); } catch (e) {}
 }
