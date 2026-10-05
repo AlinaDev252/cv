@@ -54,7 +54,7 @@ const es = {
   'edu.bachelor': 'Grado en Administración de Empresas (Comercio)',
   'edu.school': 'Academia de Estudios Económicos, Bucarest',
   'certs.title': 'Certificaciones',
-  'footer.built': 'Diseñado y programado por mí, con HTML y Tailwind CSS.',
+  'footer.built': 'Hecho con HTML y Tailwind CSS ·',
   'footer.source': 'Ver código',
 };
 
