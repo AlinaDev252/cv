@@ -37,8 +37,8 @@ const es = {
   'job3.dates': 'feb. 2011 – dic. 2019',
   'job3.note': 'Ascendida en 2012 tras un año como Especialista de Atención al Cliente.',
   'job3.body': `
-    <li>Coordiné el equipo de atención al cliente y logística: planificaba el trabajo diario, marcaba prioridades y resolvía incidencias sobre la marcha, algo muy parecido a trabajar por sprints.</li>
-    <li>Usuaria clave de Microsoft Dynamics AX (ERP/CRM): actualización de datos, resolución de incidencias y formación de nuevos compañeros.</li>
+    <li>Coordiné el equipo de atención al cliente: planificaba el trabajo diario, marcaba prioridades y resolvía incidencias sobre la marcha, algo muy parecido a trabajar por sprints.</li>
+    <li>Usuaria clave de Microsoft Dynamics AX (ERP/CRM): participé en la implantación de una actualización del sistema, probé los nuevos flujos, redacté la documentación de procesos y formé a mis compañeros.</li>
     <li>Seguimiento de ventas y previsión de inventario con el Country Manager, con informes operativos semanales.</li>`,
   'skills.fe': 'Front-end',
   'skills.feExtra': 'diseño responsive, email HTML',
