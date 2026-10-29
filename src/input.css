@@ -7,23 +7,29 @@
 @theme {
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-display: "Fraunces", Georgia, serif;
-  --color-sand: #faf6f4;
-  --color-ink: #1b1618;
-  --color-status: #6dbf8f;
-  --color-status-ink: #2f6b4a;
-  --color-rose: #dd77a0;
-  --color-brand-50: #fcf1f5;
-  --color-brand-100: #f6d9e4;
-  --color-brand-300: #ffd9e0;
-  --color-brand-400: #ffc1cc;
-  --color-brand-600: #a3285c;
-  --color-brand-700: #85204b;
-  --color-brand-900: #45102a;
+  --color-paper: #f2f1ef;
+  --color-body: #413f3d;
+  --color-heading: #2a2827;
+  --color-muted: #6f6866;
+  --color-hairline: #d8cfd0;
+  --color-line: #b1a6a4;
+  --color-tint: #e6dfe0;
+  --color-accent: #24707c;
+  --color-accent-deep: #1c5c66;
+  --color-accent-bright: #4fb3c2;
+  --color-accent-soft: #86ccd7;
+  --color-ink: #1e1d1c;
+  --color-night-surface: #282624;
+  --color-night-text: #d8cfd0;
+  --color-night-heading: #f5f1ef;
+  --color-night-muted: #a69d9b;
+  --color-night-hairline: #353230;
+  --color-night-line: #645e5c;
 }
 
 @layer base {
   html { scroll-behavior: smooth; }
-  :focus-visible { outline: 2px solid var(--color-brand-600); outline-offset: 3px; border-radius: 4px; }
-  .dark :focus-visible { outline-color: var(--color-brand-300); }
+  :focus-visible { outline: 2px solid var(--color-accent); outline-offset: 3px; border-radius: 4px; }
+  .dark :focus-visible { outline-color: var(--color-accent-bright); }
   @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 }
