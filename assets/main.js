@@ -19,7 +19,7 @@ const es = {
   'job1.body': `
     <li>Desarrollé y mantuve más de 10 temas de tienda a medida para una plataforma e-commerce de suscripción en crecimiento, con un alto volumen de pedidos mensuales.</li>
     <li>Convertí diseños de Figma en páginas limpias y rápidas con HTML, CSS, JavaScript, Bootstrap 5 y Twig (un lenguaje de plantillas parecido a Liquid de Shopify).</li>
-    <li>Publiqué más de 60 landing pages y campañas promocionales con los equipos de diseño y marketing, a menudo con fechas de lanzamiento ajustadas.</li>
+    <li>Publiqué más de 100 landing pages y campañas promocionales con los equipos de diseño y marketing, a menudo con fechas de lanzamiento ajustadas.</li>
     <li>Maqueté las páginas de producto, carrito, checkout y suscripción para que fueran más fáciles de usar en móvil y se pudiera comprar en menos pasos.</li>
     <li>Mejoré la velocidad de carga y la versión móvil: imágenes más ligeras, menos saltos de diseño y mejores resultados en Core Web Vitals.</li>
     <li>Maqueté plantillas de email HTML responsive para pedidos, envíos y marketing.</li>
