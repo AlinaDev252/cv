@@ -16,16 +16,18 @@
   --color-tint: #e6dfe0;
   --color-accent: #5a6275;
   --color-accent-deep: #474e5f;
-  --color-accent-bright: #a9b0c2;
+  --color-accent-bright: #9fb2ec;
   --color-accent-mark: #697184;
-  --color-accent-soft: #c3c8d5;
+  --color-accent-soft: #bccaf3;
   --color-ink: #1e1d1c;
-  --color-night-surface: #282624;
-  --color-night-text: #d8cfd0;
-  --color-night-heading: #f5f1ef;
-  --color-night-muted: #a69d9b;
-  --color-night-hairline: #353230;
-  --color-night-line: #645e5c;
+  --color-night-surface: #292725;
+  --color-night-text: #e4dedd;
+  --color-night-heading: #ffffff;
+  --color-night-muted: #b0a8a6;
+  --color-night-hairline: #3a3634;
+  --color-night-line: #6b6462;
+  --color-night-pill: #262b3a;
+  --color-night-pill-line: #3a4566;
 }
 
 @layer base {
