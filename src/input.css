@@ -1,4 +1,20 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: "Newsreader";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("fonts/newsreader-latin.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Instrument Sans";
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("fonts/instrument-sans-latin.woff2") format("woff2");
+}
+
 @source "../index.html";
 @source "../assets/main.js";
 
@@ -6,7 +22,7 @@
 
 @theme {
   --font-sans: "Instrument Sans", ui-sans-serif, system-ui, sans-serif;
-  --font-display: "Fraunces", Georgia, serif;
+  --font-display: "Newsreader", Georgia, serif;
   --color-paper: #f2f1ef;
   --color-body: #413f3d;
   --color-heading: #2a2827;
