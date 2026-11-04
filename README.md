@@ -2,7 +2,7 @@
 
 Personal CV site, hand-coded with HTML and Tailwind CSS v4. English/Spanish toggle, light/dark mode, print-friendly.
 
-Live: https://alinadev252.github.io/cv/
+Live: https://cv.alina-goiea.com/
 
 ## Develop
 
