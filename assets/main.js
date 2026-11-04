@@ -3,13 +3,13 @@ const es = {
   'nav.skills': 'Habilidades',
   'nav.education': 'Formación',
   'hero.status': 'Disponible solo para puestos en remoto',
-  'hero.role': 'Desarrolladora Front-End | JavaScript y plataformas eCommerce',
+  'hero.role': '<span class="inline-block">Desarrolladora Front-end para <span class="whitespace-nowrap">E-commerce</span></span><span class="hidden sm:inline"> | </span><span class="block sm:inline-block">JavaScript, Twig, Shopify Liquid</span>',
   'hero.intro': 'Llevo cuatro años creando temas de tienda, landing pages y checkouts para una plataforma e-commerce. Antes trabajé casi diez años en operaciones y atención al cliente, por eso siempre pienso en la persona que usa la página, no solo en el código.',
   'hero.download': 'Descargar CV (PDF)',
   'hero.contact': 'Contactar',
   'about.title': 'Sobre mí',
   'about.body': `
-    <p>No empecé en tecnología. Dirigí un equipo de atención al cliente en Bucarest y era la persona a la que todos acudían cuando el ERP fallaba. En 2020 aprendí front-end por mi cuenta y en 2022 entré en Marbill, donde hoy soy desarrolladora senior en un equipo de cuatro personas.</p>
+    <p>No empecé en tecnología. Dirigí un equipo de atención al cliente en Bucarest y era la persona a la que todos acudían cuando el ERP fallaba. En 2020 aprendí front-end por mi cuenta y en 2022 entré en Marbill, donde hoy trabajo en un equipo de cuatro desarrolladores front-end.</p>
     <p>Lo que más me gusta del e-commerce es lo rápido que se ve el resultado: un checkout más rápido o una página de campaña más clara se nota en los números casi al momento. Por eso disfruto trabajando codo con codo con marketing: suelo ser quien convierte sus ideas en páginas que se pueden publicar, y los números nos dicen a todos qué ha funcionado.</p>`,
   'stats.years': 'Años programando',
   'stats.themes': 'Temas de tienda',
