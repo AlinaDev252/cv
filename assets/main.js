@@ -2,7 +2,6 @@ const es = {
   'nav.experience': 'Experiencia',
   'nav.skills': 'Habilidades',
   'nav.education': 'Formación',
-  'hero.status': 'Disponible solo para puestos en remoto',
   'hero.role': '<span class="inline-block">Desarrolladora Front-end para <span class="whitespace-nowrap">E-commerce</span></span><span class="hidden sm:inline"> | </span><span class="block sm:inline-block">JavaScript, Twig, Shopify Liquid</span>',
   'hero.intro': 'Llevo cuatro años creando temas de tienda, landing pages y checkouts para una plataforma e-commerce. Antes trabajé casi diez años en operaciones y atención al cliente, por eso siempre pienso en la persona que usa la página, no solo en el código.',
   'hero.download': 'Descargar CV (PDF)',
